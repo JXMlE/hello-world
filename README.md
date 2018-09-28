@@ -1,3 +1,3 @@
 # hello-world
-First Repository
-Just another repository
+First Repository.
+Just another repository!
